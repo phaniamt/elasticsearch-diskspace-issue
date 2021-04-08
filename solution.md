@@ -9,12 +9,12 @@ check the diskspace in elasticsearch
 
 Goto index_management and delete the old indexes then follow the any one of the solutions
 
-- https://<kibana>/app/kibana#/management/elasticsearch/index_management/indices?_g=()
+- https://kibana/app/kibana#/management/elasticsearch/index_management/indices?_g=()
 
 ### Solution 1
 
 Open dev_tools in kibna and run query
-- https://<kibana>/app/kibana#/dev_tools/console?_g=()
+- https://kibana/app/kibana#/dev_tools/console?_g=()
 
 
 ```
